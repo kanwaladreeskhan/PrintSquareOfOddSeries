@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSquareOfOddSeries\PrintSquareOfOddSeries\bin\Debug\PrintSquareOfOddSeries.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSquareOfOddSeries\PrintSquareOfOddSeries\bin\Debug\PrintSquareOfOddSeries.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSquareOfOddSeries\PrintSquareOfOddSeries\bin\Debug\PrintSquareOfOddSeries.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSquareOfOddSeries\PrintSquareOfOddSeries\obj\Debug\PrintSquareOfOddSeries.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSquareOfOddSeries\PrintSquareOfOddSeries\obj\Debug\PrintSquareOfOddSeries.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSquareOfOddSeries\PrintSquareOfOddSeries\obj\Debug\PrintSquareOfOddSeries.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSquareOfOddSeries\PrintSquareOfOddSeries\obj\Debug\PrintSquareOfOddSeries.pdb
